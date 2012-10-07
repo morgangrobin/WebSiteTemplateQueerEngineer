@@ -18,8 +18,9 @@
 			<div id="contentpage">
 				<div class="innertube">
 					<h1>&#160&#160&#160&#160 Welcome!</h1>
-
-					<p>Queer Engineer is an EUS club that strives to provide a safe and
+					<a href='http://www.google.com' target="_blank"> <img border='0' src='Pictures/logoQE.jpg' ></a>
+  						
+   							<p>Queer Engineer is an EUS club at McGill University that strives to provide a safe and
 						welcoming environment for gender and sexual minorities, within both
 						the Faculty of Engineering and McGill as whole.  We welcome all gay,
 						lesbian, bisexual, asexual, trans*, queer and allied students, and students
