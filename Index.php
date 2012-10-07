@@ -17,36 +17,19 @@
 		<div id="content">
 			<div id="contentpage">
 				<div class="innertube">
-					<h1>Welcome!</h1>
+					<h1>&#160&#160&#160&#160 Welcome!</h1>
 
-					<p>&#160&#160&#160&#160The Faculty of Engineering is one of the
-						constituent faculties of the McGill University in Montreal,
-						Quebec, Canada, offering undergraduate and graduate degrees in
-						chemical, civil, computer, software, electrical, mechanical,
-						metals and materials, and mining engineering, as well as
-						architecture and urban planning. The faculty also teaches courses
-						in bio-resource engineering (Faculty of Agriculture) and in
-						biomedical engineering (Faculty of Medicine) at the masters level.</p>
+					<p>Queer Engineer is an EUS club that strives to provide a safe and
+						welcoming environment for gender and sexual minorities, within both
+						the Faculty of Engineering and McGill as whole.  We welcome all gay,
+						lesbian, bisexual, asexual, trans*, queer and allied students, and students
+						with non-normative sexual and/or gender identities outside of those
+						labels.  As a primarily social organization, we hold weekly Safe Space
+						Hangouts and various fun events throughout the year, such as wine and
+						cheese gatherings and outings to the Village.</p>
 
-					<p>&#160&#160&#160&#160McGill University is a public research
-						university located in Montreal, Quebec, Canada. The university
-						bears the name of James McGill, a prominent Montreal merchant from
-						Glasgow, Scotland and alumnus of Glasgow University, whose bequest
-						formed the beginning of the university. Founded in 1821, McGill
-						was chartered during the British colonial era, 46 years before the
-						Canadian Confederation, making it one of the oldest universities
-						in Canada.</p>
+					<p>Make sure to check back often for photos, updates and more!</p>
 
-					<p>&#160&#160&#160&#160The Engineering Undergraduate Society (EUS)
-						is the coordinating body and voice of undergraduate students in
-						the Faculty of Engineering. All students registered in the Faculty
-						of Engineering automatically become members of the EUS. The EUS
-						plays very active roles in enhancing all aspects of student life
-						in the Faculty, including social events, sports, volunteerism,
-						competitions and academics.</p>
-						
-						<p>Sincerely,</p>
-						<p>EUS Website Committee</p>
 				</div>
 			</div>
 		</div>
