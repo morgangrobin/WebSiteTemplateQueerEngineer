@@ -20,11 +20,7 @@
 					<h1>Up and Coming Events</h1>
 					<p>
 					<ul>
-						<li>Mexican Fiesta Blues Pub on Friday Night Oct.5 in the
-							Engineering Commonroom</li>
-						<li>Apple Picking on Saturday, Oct. 6</li>
-						<li>Industry Panel on Wednesday, Nov 7 (6 - 8PM)</li>
-						<li>Speed Networking on Tuesday, Nov 20 (5:45-8PM)</li>
+						<li>Coming soon!</li>
 					</ul>
 					</p>
 				</div>

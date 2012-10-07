@@ -17,21 +17,21 @@
 <div id="content">
 			<div id="contentpage">
 				<div class="innertube">
-					<h1>About QE</h1>
-					<p>Queer Engineer is a club at McGill University under
-						Engineering Undergraduate Society (EUS).</p>
+					<h1>About Us</h1> 
+					<p>Queer Engineer is a club at McGill University under the <a href="http://www.mcgilleus.ca"> Engineering Undergraduate Society (EUS)</a> 
+					. We strive to provide a safe and welcoming environment for gender and sexual minorities, 
+					within both the Faculty of Engineering and McGill as whole. We welcome all gay, lesbian, bisexual, asexual, trans*, 
+					queer and allied students, and students with non-normative sexual and/or gender identities outside of those labels. 
+					</p>
+						
 
-					<p>POWE’s main goals are:</p>
+					<p>Our events include</p>
 
 					<ul>
-						<li>To promote awareness for female students in engineering</li>
-						<li>To encourage young women to join this field of study by
-							exposing them to the many career opportunities that an
-							engineering degree offers</li>
-						<li>To enlighten others about the important contributions and
-							general role of women in the engineering field</li>
-						<li>To create a positive and friendly environment where fellow
-							female engineers can socialize and seek support</li>
+						<li>weekly Safe Space Hangouts </li>
+						<li>wine and cheese gatherings</li>
+						<li> and outings to the Village.</li>
+						
 					</ul>
 
 				</div>

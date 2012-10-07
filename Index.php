@@ -17,8 +17,8 @@
 		<div id="content">
 			<div id="contentpage">
 				<div class="innertube">
-					<h1>&#160&#160&#160&#160 Welcome!</h1>
-					<a href='http://www.google.com' target="_blank"> <img border='0' src='Pictures/logoQE.jpg' ></a>
+					<h1>Welcome!</h1>
+					<a href='http://localhost/WebsiteTemplateQueerEngineer/logoQE.jpg' target="_blank"> <img border='0' src='Pictures/smalllogoQE.jpg' ></a>
   						
    							<p>Queer Engineer is an EUS club at McGill University that strives to provide a safe and
 						welcoming environment for gender and sexual minorities, within both
