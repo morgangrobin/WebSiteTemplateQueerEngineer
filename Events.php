@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
-<title>POWE :: Events</title>
+<title>QE :: Events</title>
 
 <?php include("SetUp.php");?>
 
@@ -20,7 +20,9 @@
 					<h1>Up and Coming Events</h1>
 					<p>
 					<ul>
-						<li>Coming soon!</li>
+						
+						
+						
 					</ul>
 					</p>
 				</div>

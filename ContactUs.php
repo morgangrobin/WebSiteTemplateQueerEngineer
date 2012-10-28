@@ -28,12 +28,11 @@
 
 						<tr>
 							<td><b>Email:</b></td>
-							<td>queerengineer@mcgilleus.ca</td>
+							<td><a href="mailto:queerengineer@mcgilleus.ca">queerengineer</a></td>
 						</tr>
 						<tr>
 							<td><b>Facebook Page:</b></td>
-							<td><a
-								href="http://www.facebook.com/groups/qemcgill/?ref=ts&fref=ts</a>
+							<td><a href="http://www.facebook.com/pages/Queer-Engineer-McGill/100652173340876?ref=ts&fref=ts"</a> Queer Engineer [McGill] </td>
 							</td>
 						</tr>
 					</table>

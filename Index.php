@@ -18,7 +18,6 @@
 			<div id="contentpage">
 				<div class="innertube">
 					<h1>Welcome!</h1>
-					<a href='http://localhost/WebsiteTemplateQueerEngineer/logoQE.jpg' target="_blank"> <img border='0' src='Pictures/smalllogoQE.jpg' ></a>
   						
    							<p>Queer Engineer is an EUS club at McGill University that strives to provide a safe and
 						welcoming environment for gender and sexual minorities, within both
@@ -28,8 +27,6 @@
 						labels.  As a primarily social organization, we hold weekly Safe Space
 						Hangouts and various fun events throughout the year, such as wine and
 						cheese gatherings and outings to the Village.</p>
-
-					<p>Make sure to check back often for photos, updates and more!</p>
 
 				</div>
 			</div>
